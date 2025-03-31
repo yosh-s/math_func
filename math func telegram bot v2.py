@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import math
 
-BOT_TOKEN = "5073900951:AAGReIU3vFapYjn0D5FNDdAStUmd79kQ1rc"
+BOT_TOKEN = "TOKEN"
 file_name = 'new.txt'
 bot = telebot.TeleBot(BOT_TOKEN)
 print("bot is running now! ")
